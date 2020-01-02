@@ -21,10 +21,11 @@ function App() {
       <Testimonials />
       <Staff />
       <Contact />
-      </div>
+      
       
     <div className='footer'>
       <Footer />
+    </div>
     </div>
     </div>
   )

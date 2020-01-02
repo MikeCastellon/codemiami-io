@@ -131,7 +131,13 @@ html {
 	margin: 0;
 }
 
+.wrapper {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
 body {
+	
   	font-size: 14px;
   	-webkit-font-smoothing: antialiased;
   		-moz-osx-font-smoothing: grayscale;
@@ -5327,10 +5333,12 @@ body.anim .load-title-fill:after {
 11. Footer
 --------------------------------------------------------------*/
 .footer {
+	
 	width: 100%;
 	min-width: 100%;
 	max-width: 100%;
-	position: relative;
+	position: relative !important;
+
 }
 
 .footer:before {
