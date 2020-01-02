@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 const Footer = () => {
     return(
+        <div className='footer sticky-footer'>
         <footer className="footer dark-bg-1">
   {/* flex-container start */}
   <div className="flex-container container top-bottom-padding-90">
@@ -169,6 +170,7 @@ const Footer = () => {
   </div>
   {/* flex-container end */}
 </footer>
+</div>
 
     )
 }
