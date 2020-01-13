@@ -335,6 +335,9 @@ h6 {
    	 
 }
 
+body.anim .slider-arrow-prev-box, body.anim .slider-arrow-next-box {
+	display: none;
+}
 /* 1.1. Helpers */
 .rel-pos {
 	position: relative;
