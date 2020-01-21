@@ -17,19 +17,12 @@ const About = () => {
                     data-animation-child
                     className="title-fill"
                     data-animation="title-fill-anim"
-                    data-text="We are Creative"
+                    data-text="Who is code miami?"
                   >
-                    We are Creative
+                    Who is Code Miami?
                   </span>
                   <br />
-                  <span
-                    data-animation-child
-                    className="title-fill tr-delay01"
-                    data-animation="title-fill-anim"
-                    data-text="We are Xen"
-                  >
-                    We are Xen
-                  </span>
+                 
                 </h2>
               </div>
               {/* column end */}
@@ -78,7 +71,8 @@ const About = () => {
                   className="p-letter-style text-color-4 text-height-13 fade-anim-box tr-delay04"
                   data-animation="fade-anim"
                 >
-                  Godard slow-carb chartreuse occupy, tumblr letterpress
+                "For the strength of the pack is the wolf and the strength of the wolf is the pack" 
+                     
                 </p>
               </div>
               {/* column end */}

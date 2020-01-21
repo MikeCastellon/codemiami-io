@@ -2,7 +2,7 @@ import React, { Components } from 'react';
 
 const Partners = () => {
     return(
-       <section className="dark-bg-2">
+        <section className="dark-bg-2">
             {/* container start */}
             <div className="container small top-bottom-padding-120">
               {/* medium-title start */}
@@ -11,27 +11,27 @@ const Partners = () => {
                   data-animation-child
                   className="title-fill"
                   data-animation="title-fill-anim"
-                  data-text="Fine Folks"
+                  data-text="Helping"
                 >
-                  Fine Folks
+                  Helping
                 </span>
                 <br />
                 <span
                   data-animation-child
                   className="title-fill tr-delay01"
                   data-animation="title-fill-anim"
-                  data-text="We’ve Worked"
+                  data-text="Our Community"
                 >
-                  We’ve Worked
+                  Our Community
                 </span>
                 <br />
                 <span
                   data-animation-child
                   className="title-fill tr-delay02"
                   data-animation="title-fill-anim"
-                  data-text="With"
+                  data-text="Grow"
                 >
-                  With
+                  Grow
                 </span>
               </h2>
               {/* medium-title end */}

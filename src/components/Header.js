@@ -330,54 +330,49 @@ const Header = () => {
                   <h2 className="large-title-bold">
                     <span
                       className="slider-title-fill slider-tr-delay01"
-                      data-text="We generate"
+                      data-text="Code Miami"
                     >
-                      We generate
+                      Code Miami
                     </span>
                     <br />
                     <span
                       className="slider-title-fill slider-tr-delay02"
-                      data-text="creative &"
+                      data-text="create & "
                     >
-                      creative &amp;
+                      create &amp; 
                     </span>
                     <br />
                     <span
                       className="slider-title-fill slider-tr-delay03"
-                      data-text="novation ideas"
+                      data-text="Motivate"
                     >
-                      novation ideas
+                      Motivate
                     </span>
                   </h2>
                   <p className="p-style-bold-up text-height-20 d-flex-wrap">
                     <span
                       className="slider-title-fill slider-tr-delay04"
-                      data-text="XOXO fam brunch"
+                      data-text="Stop thinking"
                     >
-                      XOXO fam brunch
+                      Stop Thinking
                     </span>
                     <span
                       className="slider-title-fill slider-tr-delay05"
-                      data-text="retro intelligentsia"
+                      data-text="& Start Building"
                     >
-                      retro intelligentsia
+                      & Start Building
                     </span>
-                    <span
-                      className="slider-title-fill slider-tr-delay06"
-                      data-text="live-edge vegan"
-                    >
-                      live-edge vegan
-                    </span>
+                   
                   </p>
                   <div className="slider-fade slider-tr-delay07 top-margin-30">
                     <div className="border-btn-box border-btn-red pointer-large">
                       <div className="border-btn-inner">
                         <a
-                          href="#"
+                          href="#aboutus"
                           className="border-btn"
-                          data-text="Read more"
+                          data-text="Who are we?"
                         >
-                          Read more
+                         Who are we?
                         </a>
                       </div>
                     </div>
@@ -409,20 +404,18 @@ const Header = () => {
               <div className="six-columns six-offset">
                 <div className="content-left-margin-40">
                   <h2 className="slider-overlay2 medium-title red-color">
-                    Welcome Xen
+                    Evolve
                   </h2>
                   <h3 className="large-title-bold text-color-4">
                     <span className="slider-overlay2 slider-tr-delay01">
-                      Best Solutions
+                      Everything begins
                     </span>
                     <br />
                     <span className="slider-overlay2 slider-tr-delay02">
-                      &amp; ideas for
+                      with an idea
                     </span>
                     <br />
-                    <span className="slider-overlay2 slider-tr-delay03">
-                      You Business
-                    </span>
+                  
                   </h3>
                   <div className="slider-fade slider-tr-delay04 top-margin-30">
                     <div className="border-btn-box pointer-large">
@@ -430,9 +423,9 @@ const Header = () => {
                         <a
                           href="#"
                           className="border-btn"
-                          data-text="Read more"
+                          data-text="Portfolio"
                         >
-                          Read more
+                          Portfolio
                         </a>
                       </div>
                     </div>
@@ -465,24 +458,19 @@ const Header = () => {
                 <h2 className="large-title-bold">
                   <span
                     className="slider-title-fill slider-tr-delay01"
-                    data-text="We’r Provided"
+                    data-text="We’re Ready"
                   >
-                    We’r Provided
+                    We're Ready
                   </span>
                   <br />
                   <span
                     className="slider-title-fill slider-tr-delay02"
-                    data-text="Best Digital"
+                    data-text="Are you?"
                   >
-                    Best Digital
+                    Are you?
                   </span>
                   <br />
-                  <span
-                    className="slider-title-fill slider-tr-delay03"
-                    data-text="Services"
-                  >
-                    Services
-                  </span>
+                
                 </h2>
                 <div className="small-title-oswald text-height-20 d-flex-wrap top-margin-20">
                   <span
@@ -506,7 +494,7 @@ const Header = () => {
                 </div>
                 <div className="arrow-btn-box slider-fade slider-tr-delay06 top-margin-30">
                   <a href="#" className="arrow-btn pointer-large">
-                    Read more
+                    Lets Talk
                   </a>
                 </div>
               </div>

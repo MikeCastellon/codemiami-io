@@ -17,7 +17,7 @@ const RecentWorks = () => {
                 className="large-title text-height-10 text-color-1 overlay-anim-box2"
                 data-animation="overlay-anim2"
               >
-                Recent Works
+                Latest Creations
               </h2>
               <br />
               <p
@@ -25,7 +25,7 @@ const RecentWorks = () => {
                 className="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5"
                 data-animation="fade-anim"
               >
-                We Offer Digital Solutions
+                Digital Solutions
               </p>
             </div>
             {/* container end */}
@@ -44,7 +44,7 @@ const RecentWorks = () => {
                           className="small-title-oswald red-color overlay-anim-box2"
                           data-animation="overlay-anim2"
                         >
-                          Commercial
+                          Web redesign
                         </span>
                         <h3 className="title-style text-color-1">
                           <span
@@ -52,7 +52,7 @@ const RecentWorks = () => {
                             className="overlay-anim-box2 overlay-dark-bg-2 tr-delay01"
                             data-animation="overlay-anim2"
                           >
-                            Bushwick selfies
+                            Statewide Electrical 
                           </span>
                           <br />
                           <span
@@ -60,16 +60,10 @@ const RecentWorks = () => {
                             className="overlay-anim-box2 overlay-dark-bg-2 tr-delay02"
                             data-animation="overlay-anim2"
                           >
-                            pork belly lyft
+                            Contractors Inc
                           </span>
                           <br />
-                          <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-dark-bg-2 tr-delay03"
-                            data-animation="overlay-anim2"
-                          >
-                            brooklyn messeng
-                          </span>
+                   
                         </h3>
                         <p
                           data-animation-child
@@ -88,10 +82,10 @@ const RecentWorks = () => {
                           data-animation="fade-anim"
                         >
                           <a
-                            href="project.html"
+                            href="https://swecinc.com/"
                             className="arrow-btn pointer-large animsition-link"
                           >
-                            Read more
+                            Check it out
                           </a>
                         </div>
                       </div>
@@ -154,7 +148,7 @@ const RecentWorks = () => {
                           className="small-title-oswald red-color overlay-anim-box2"
                           data-animation="overlay-anim2"
                         >
-                          Graphic Design
+                          Full-service Web development
                         </span>
                         <h3 className="title-style text-color-1">
                           <span
@@ -162,24 +156,9 @@ const RecentWorks = () => {
                             className="overlay-anim-box2 overlay-dark-bg-2 tr-delay01"
                             data-animation="overlay-anim2"
                           >
-                            tumeric tumblr
+                            Beautify
                           </span>
-                          <br />
-                          <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-dark-bg-2 tr-delay02"
-                            data-animation="overlay-anim2"
-                          >
-                            gluten-free
-                          </span>
-                          <br />
-                          <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-dark-bg-2 tr-delay03"
-                            data-animation="overlay-anim2"
-                          >
-                            Man bun small
-                          </span>
+                          
                         </h3>
                         <p
                           data-animation-child
@@ -198,10 +177,10 @@ const RecentWorks = () => {
                           data-animation="fade-anim"
                         >
                           <a
-                            href="project.html"
+                            href="https://beautifyapp.herokuapp.com/users/sign_in"
                             className="arrow-btn pointer-large animsition-link"
                           >
-                            Read more
+                            Check it out
                           </a>
                         </div>
                       </div>
@@ -230,7 +209,7 @@ const RecentWorks = () => {
                           className="small-title-oswald red-color overlay-anim-box2"
                           data-animation="overlay-anim2"
                         >
-                          Branding
+                          Full STack Web App
                         </span>
                         <h3 className="title-style text-color-1">
                           <span
@@ -238,24 +217,9 @@ const RecentWorks = () => {
                             className="overlay-anim-box2 overlay-dark-bg-2 tr-delay01"
                             data-animation="overlay-anim2"
                           >
-                            batch kombucha
+                            Enhanced publication System
                           </span>
-                          <br />
-                          <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-dark-bg-2 tr-delay02"
-                            data-animation="overlay-anim2"
-                          >
-                            subway tile
-                          </span>
-                          <br />
-                          <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-dark-bg-2 tr-delay03"
-                            data-animation="overlay-anim2"
-                          >
-                            salvia brooklyn
-                          </span>
+                          
                         </h3>
                         <p
                           data-animation-child
@@ -274,10 +238,10 @@ const RecentWorks = () => {
                           data-animation="fade-anim"
                         >
                           <a
-                            href="project.html"
+                            href="https://eps-front.herokuapp.com/dashboard/user/1"
                             className="arrow-btn pointer-large animsition-link"
                           >
-                            Read more
+                           Check it out
                           </a>
                         </div>
                       </div>
@@ -340,7 +304,7 @@ const RecentWorks = () => {
                           className="small-title-oswald red-color overlay-anim-box2"
                           data-animation="overlay-anim2"
                         >
-                          Web design
+                         api integration
                         </span>
                         <h3 className="title-style text-color-1">
                           <span
@@ -348,24 +312,9 @@ const RecentWorks = () => {
                             className="overlay-anim-box2 overlay-dark-bg-2 tr-delay01"
                             data-animation="overlay-anim2"
                           >
-                            organic activated
+                            BrewFinder
                           </span>
-                          <br />
-                          <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-dark-bg-2 tr-delay02"
-                            data-animation="overlay-anim2"
-                          >
-                            charcoal vape
-                          </span>
-                          <br />
-                          <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-dark-bg-2 tr-delay03"
-                            data-animation="overlay-anim2"
-                          >
-                            viral ennui
-                          </span>
+                          
                         </h3>
                         <p
                           data-animation-child
@@ -384,10 +333,10 @@ const RecentWorks = () => {
                           data-animation="fade-anim"
                         >
                           <a
-                            href="project.html"
+                            href="https://brewfinder.netlify.com/"
                             className="arrow-btn pointer-large animsition-link"
                           >
-                            Read more
+                            Check it out
                           </a>
                         </div>
                       </div>

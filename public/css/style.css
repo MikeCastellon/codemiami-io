@@ -129,6 +129,7 @@
 html {
 	padding: 0;
 	margin: 0;
+	 scroll-behavior: smooth;
 }
 
 .wrapper {
@@ -6039,7 +6040,8 @@ button.mfp-close {
 .slider-tr-delay01.slider-title-fill:after {
 	-webkit-transition-delay: 1.4s !important;
 	    -o-transition-delay: 1.4s !important;
-	        transition-delay: 1.4s !important;
+			transition-delay: 1.4s !important;
+			color:#fff;
 }
 
 .slider-tr-delay02.slider-title-fill:after {
