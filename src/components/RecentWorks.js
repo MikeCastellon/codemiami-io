@@ -70,11 +70,7 @@ const RecentWorks = () => {
                           className="p-style-small text-color-2 fade-anim-box tr-delay04"
                           data-animation="fade-anim"
                         >
-                          Narwhal pop-up intelligentsia tbh pinterest, microdosing tilde
-                          cloud bread gochujang tattooed leggings cornhole 8-bit. Austin
-                          fam chia cold-pressed raw denim. Glossier drinking vinegar
-                          portland lo-fi, polaroid bespoke lomo. Banjo art party XOXO,
-                          fashion axe sustainable retro ethical gentrify.
+                          Statewide Electrical Contractors has been serving the nation with their services since 1996. We <strong>re-designed</strong> their page with the goal of generating more <strong>traffic </strong>and clients. We highlighted the projects and made navigation <strong>user friendly</strong>. We dove deep into the <strong>SEO </strong> and content of the site in order to increase their <strong>natural search results</strong> and were able to successfuly help them <strong>maximize</strong> their digital space. As an add-on we provided them with all <strong>original images</strong> for the site by sending our media team to their worksites. 
                         </p>
                         <div
                           data-animation-child
