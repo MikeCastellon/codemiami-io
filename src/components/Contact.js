@@ -50,7 +50,9 @@ const Contact = () => {
                             className="overlay-anim-box2 overlay-light-bg-1 tr-delay01"
                             data-animation="overlay-anim2"
                             >
-                            palo listicle
+                                Question
+                                
+                                
                             </span>
                             <br />
                             <span
@@ -58,16 +60,9 @@ const Contact = () => {
                             className="overlay-anim-box2 overlay-light-bg-1 tr-delay02"
                             data-animation="overlay-anim2"
                             >
-                            vape banjo
+                            Concern
                             </span>
-                            <br />
-                            <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-light-bg-1 tr-delay03"
-                            data-animation="overlay-anim2"
-                            >
-                            meditation
-                            </span>
+                            
                         </p>
                         <h6
                             data-animation-child
@@ -77,81 +72,16 @@ const Contact = () => {
                             <a
                             href="#"
                             className="flip-btn pointer-large"
-                            data-text="email@xen_agency.com"
+                            data-text="info@codemiami.io"
                             >
-                            email@xen_agency.com
+                            <a href="mailto:info@codemiami.io" target="_top">info@codemiami.io</a>
                             </a>
                         </h6>
-                        <h6
-                            data-animation-child
-                            className="flip-btn-box fade-anim-box tr-delay04"
-                            data-animation="fade-anim"
-                        >
-                            <a
-                            href="#"
-                            className="flip-btn pointer-large"
-                            data-text="email@xen_job.com"
-                            >
-                            email@xen_job.com
-                            </a>
-                        </h6>
+                        
                         </div>
                     </div>
                     {/* column end */}
-                    {/* column start */}
-                    <div className="four-columns bottom-padding-60">
-                        <div
-                        data-animation-container
-                        className="content-left-right-margin-10"
-                        >
-                        <p
-                            data-animation-child
-                            className="small-title-oswald red-color overlay-anim-box2"
-                            data-animation="overlay-anim2"
-                        >
-                            Visit us
-                        </p>
-                        <h6 className="title-style text-color-4">
-                            <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-light-bg-1 tr-delay01"
-                            data-animation="overlay-anim2"
-                            >
-                            PO Box 223158
-                            </span>
-                            <br />
-                            <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-light-bg-1 tr-delay02"
-                            data-animation="overlay-anim2"
-                            >
-                            Oliver Street
-                            </span>
-                            <br />
-                            <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-light-bg-1 tr-delay03"
-                            data-animation="overlay-anim2"
-                            >
-                            Victoria 2006
-                            </span>
-                        </h6>
-                        <div
-                            data-animation-child
-                            className="flip-btn-box fade-anim-box tr-delay04"
-                            data-animation="fade-anim"
-                        >
-                            <a
-                            href="#"
-                            className="flip-btn pointer-large"
-                            data-text="open in google maps"
-                            >
-                            open in google maps
-                            </a>
-                        </div>
-                        </div>
-                    </div>
-                    {/* column end */}
+               
                     {/* column start */}
                     <div className="four-columns bottom-padding-60">
                         <div data-animation-container className="content-left-margin-20">
@@ -168,7 +98,7 @@ const Contact = () => {
                             className="overlay-anim-box2 overlay-light-bg-1 tr-delay01"
                             data-animation="overlay-anim2"
                             >
-                            organic cred
+                            Monday-Friday
                             </span>
                             <br />
                             <span
@@ -176,16 +106,10 @@ const Contact = () => {
                             className="overlay-anim-box2 overlay-light-bg-1 tr-delay02"
                             data-animation="overlay-anim2"
                             >
-                            Echo park DIY
+                            9:00AM - 7:30PM EST
                             </span>
-                            <br />
-                            <span
-                            data-animation-child
-                            className="overlay-anim-box2 overlay-light-bg-1 tr-delay03"
-                            data-animation="overlay-anim2"
-                            >
-                            hashtag irony
-                            </span>
+                            
+                           
                         </p>
                         <h6
                             data-animation-child
