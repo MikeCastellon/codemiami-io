@@ -1008,7 +1008,8 @@ body.anim .slider-arrow-prev-box, body.anim .slider-arrow-next-box {
 		display: -ms-flexbox;
 			display: flex;
 	-ms-flex-flow: wrap;
-	    flex-flow: wrap;
+		flex-flow: wrap;
+		justify-content: center;
 }
 
 .flex-container.reverse {

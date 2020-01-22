@@ -165,11 +165,7 @@ const RecentWorks = () => {
                           className="p-style-small text-color-2 fade-anim-box tr-delay04"
                           data-animation="fade-anim"
                         >
-                          Slow-carb green juice subway tile bicycle rights, fanny pack
-                          raclette palo santo put a bird on it mustache actually fam
-                          mumblecore iPhone. Iceland post-ironic health goth snackwave,
-                          mixtape synth four dollar toast sartorial. Health goth la croix
-                          vexillologist, before they sold out shabby chic.
+                          Beautify is a Full Stack web application that connects users with artists by allowing the user to post a listing for a space that needs original art work to be done. The artist then has an oppurtunity to make a bid on the project and allow the user either accept or deny the bid. Finally the user has the ability to make a payment to the artist. Beautiy was created using React.js for the front end, Ruby on Rails backend, and Stripe Api for payments.
                         </p>
                         <div
                           data-animation-child
