@@ -218,11 +218,7 @@ const RecentWorks = () => {
                           className="p-style-small text-color-2 fade-anim-box tr-delay04"
                           data-animation="fade-anim"
                         >
-                          Mlkshk YOLO wolf, leggings vinyl crucifix stumptown tousled.
-                          Pabst venmo gentrify deep v microdosing migas occupy master
-                          cleanse intelligentsia sartorial chia activated charcoal.
-                          Iceland small batch live-edge raclette roof party dreamcatcher
-                          austin pickled. Chillwave cronut messenger bag truffaut.
+                        EPS is a complete <strong>Full Stack web application</strong> developed to help the <strong>United States Airforce</strong> with their process in editing and modifying documentations. Our client is an <strong>Veteran</strong> that came to us with a idea and we were able to turn his <strong>vision into reality</strong>. The front-end was built on <strong>React.js</strong> and the back-end was coded using <strong>Ruby on Rails</strong>.
                         </p>
                         <div
                           data-animation-child
