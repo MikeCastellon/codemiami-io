@@ -25,7 +25,7 @@ const RecentWorks = () => {
                 className="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5"
                 data-animation="fade-anim"
               >
-                Digital Solutions
+                Be Bold Stand Out
               </p>
             </div>
             {/* container end */}
@@ -161,7 +161,7 @@ const RecentWorks = () => {
                           className="p-style-small text-color-2 fade-anim-box tr-delay04"
                           data-animation="fade-anim"
                         >
-                          Beautify is a Full Stack web application that connects users with artists by allowing the user to post a listing for a space that needs original art work to be done. The artist then has an oppurtunity to make a bid on the project and allow the user either accept or deny the bid. Finally the user has the ability to make a payment to the artist. Beautiy was created using React.js for the front end, Ruby on Rails backend, and Stripe Api for payments.
+                          Beautify is a <strong>Full Stack</strong> web application that was developed to help new businesses add an artistic touch to there identity by allowing the user to post a listing for a space that needs original art work to be done. The artist then has an oppurtunity to make a bid on the project and allow the user either accept or deny the bid. Beautiy was developed using <strong>React.js</strong> for the front end, <strong>Ruby on Rails</strong> backend, and <strong>Stripe Api</strong> for payments.
                         </p>
                         <div
                           data-animation-child
@@ -313,11 +313,7 @@ const RecentWorks = () => {
                           className="p-style-small text-color-2 fade-anim-box tr-delay04"
                           data-animation="fade-anim"
                         >
-                          Tote bag cornhole pork belly swag, cronut hoodie snackwave 90's
-                          messenger bag pour-over disrupt chartreuse. Vape ugh cardigan
-                          hell of. Vaporware umami master cleanse neutra, chartreuse
-                          flexitarian lo-fi selvage hella hoodie freegan gentrify. 8-bit
-                          air plant umami asymmetrical franzen semiotics before.
+                         Brewfinder is a web application that utilizes third-party <strong>api-integeration</strong> that allows the user to search for breweries all over the united states. <strong>Api-integeration</strong> is important because it allows you to use other buisnesses technology and information to combime them with your own web application. Brewfinder was developed using<strong> HTML</strong> , <strong>CSS</strong>, and <strong>React.js</strong>.
                         </p>
                         <div
                           data-animation-child
