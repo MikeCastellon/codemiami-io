@@ -34,13 +34,7 @@ const About = () => {
                     className="p-style-medium text-color-5 fade-anim-box tr-delay02"
                     data-animation="fade-anim"
                   >
-                    Affogato thundercats quinoa, portland cold-pressed edison bulb
-                    artisan paleo banjo tousled try-hard food truck pop-up bushwick
-                    godard. Occupy 90's try-hard tote bag chicharrones stumptown
-                    polaroid hashtag cliche +1, tousled fanny pack. Tote bag iPhone
-                    crucifix hella helvetica food truck bicycle rights cloud bread. Yr
-                    iPhone asymmetrical, next level vexillologist godard blog green
-                    juice chia. Tacos jean shorts pickled PBR&amp;B poutine.
+                  We at Code Miami are the bridge that helps you turn your idea into reality. Our team is made up of developers from Miami that not only have a passion for helping the community but a hunger for success. Our goal is to help you take your business to the next level and maximize  your digital space. Miami is filled with talented individuals with priceless ideas that just need the right tools to make an impact in society and really showcase their unique and creative abilities.
                   </p>
                 </div>
               </div>
@@ -53,13 +47,7 @@ const About = () => {
                     className="p-style-medium text-color-5 fade-anim-box tr-delay03"
                     data-animation="fade-anim"
                   >
-                    Godard slow-carb chartreuse occupy, tumblr letterpress pok pok
-                    tattooed yr lyft yuccie kinfolk. IPhone kombucha shaman gastropub
-                    snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v
-                    listicle roof party seitan man braid raclette church-key trust
-                    fund locavore vexillologist green juice raw denim tilde meh.
-                    Austin thundercats locavore taiyaki snackwave hoodie put a bird on
-                    it tattooed selvage kitsch ramps.
+                  We have been able to help startups break out of that beginner stage and become a profitable business. We also help existing businesses that just need that extra push in order to maximize their digital presence and not just create more business but generate leads that convert. We know how competitive it can be to start your own business and our goal is to help you grow. If you grow we grow. We are molding the Miami Tech scene one idea at a time!
                   </p>
                 </div>
               </div>
