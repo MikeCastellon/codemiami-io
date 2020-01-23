@@ -25,11 +25,7 @@ const Contact = () => {
                         className="p-style-small text-color-5 fade-anim-box tr-delay03"
                         data-animation="fade-anim"
                     >
-                        Succulents mlkshk hammock jean shorts flexitarian chicharrones,
-                        skateboard 90's knausgaard heirloom sustainable fixie forage. Vegan
-                        cloud bread forage lyft, cornhole food truck salvia portland
-                        locavore mlkshk. Etsy synth taxidermy godard DIY, tote bag
-                        fingerstache.
+                        Drop a line, whatever you need we are a couple clicks away. You could reach us through our social media, email, phone, or use the contact form below. Hope to hear from you soon!
                     </p>
                     </div>
                     {/* flex-container start */}
