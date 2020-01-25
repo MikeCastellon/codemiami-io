@@ -2,7 +2,7 @@ import React, { Components } from 'react';
 
 const Partners = () => {
     return(
-        <section className="dark-bg-2">
+        <section id="partners"className="dark-bg-2">
             {/* container start */}
             <div className="container small top-bottom-padding-120">
               {/* medium-title start */}
@@ -149,70 +149,10 @@ const Partners = () => {
                     </div>
                   </a>
                 </li>
-                <li>
-                  <a href="#" className="pointer-large d-block">
-                    <div className="brand-box">
-                      <img
-                        src="assets/images/clients/b908b85c-f837-4dba-80cf-d961d6fcad29.png"
-                        alt="Brand"
-                        className="hover-opac-img"
-                      />
-                      <img
-                        src="assets/images/clients/6e63c653-6997-42c6-b788-28e9fb6d15b7.png"
-                        alt="Brand"
-                        className="opac-img"
-                      />
-                    </div>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" className="pointer-large d-block">
-                    <div className="brand-box">
-                      <img
-                        src="assets/images/clients/d5f831cf-3fb0-490b-aadc-3591c8b64156.png"
-                        alt="Brand"
-                        className="hover-opac-img"
-                      />
-                      <img
-                        src="assets/images/clients/2ed0436b-e3ea-48aa-85ca-755de0719c9a.png"
-                        alt="Brand"
-                        className="opac-img"
-                      />
-                    </div>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" className="pointer-large d-block">
-                    <div className="brand-box">
-                      <img
-                        src="assets/images/clients/d51e13e6-1320-4227-8bc8-c36aaa82dffd.png"
-                        alt="Brand"
-                        className="hover-opac-img"
-                      />
-                      <img
-                        src="assets/images/clients/aed14647-8ecf-4fef-8274-737d79a7ede1.png"
-                        alt="Brand"
-                        className="opac-img"
-                      />
-                    </div>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" className="pointer-large d-block">
-                    <div className="brand-box">
-                      <img
-                        src="assets/images/clients/d383cf8d-abee-4290-810d-a965f6c0fa6c.png"
-                        alt="Brand"
-                        className="hover-opac-img"
-                      />
-                      <img
-                        src="assets/images/clients/7f7b6ede-3a3e-4e17-af25-f881c0121d63.png"
-                        alt="Brand"
-                        className="opac-img"
-                      />
-                    </div>
-                  </a>
-                </li>
+         
+        
+           
+              
                 <li className="empty-spot-box">
                   <a
                     data-animation-container

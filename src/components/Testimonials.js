@@ -2,7 +2,7 @@ import React, { Compoenents } from 'react';
 
 const Testimonials = () => {
     return(
-        <div className="light-bg-2 top-bottom-padding-120" data-midnight="black">
+        <div id="testimonials" className="light-bg-2 top-bottom-padding-120" data-midnight="black">
   {/* testimonials-slider start */}
   <div className="testimonials-slider container small">
     {/* swiper-wrapper start */}

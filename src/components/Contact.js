@@ -4,11 +4,11 @@ import React, { Component } from 'react';
 const Contact = () => {
     return (
         <div>
-            <section id="down" className="dark-bg-1 flex-min-height-box">
+            <section id="contact" className="dark-bg-1 flex-min-height-box">
                 {/* flex-min-height-inner start */}
                 <div className="flex-min-height-inner">
                 {/* container start */}
-                <div className="container top-padding-120 bottom-padding-60">
+                <div className="container top-padding-120 bottom-padding-60" id='contact'>
                     <div data-animation-container>
                     <h2 className="large-title text-center">
                         <span

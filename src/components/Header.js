@@ -78,54 +78,7 @@ const Header = () => {
             Home
           </span>
         </a>
-        {/* dropdown start */}
-        <ul className="dropdown">
-          <li className="nav-box">
-            <a href="index.html" className="animsition-link pointer-large">
-              <span className="nav-btn active" data-text="Slider Home">
-                Slider Home
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a href="video_home.html" className="animsition-link pointer-large">
-              <span className="nav-btn" data-text="Video Bg">
-                Video Bg
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a
-              href="home_fullscreen.html"
-              className="animsition-link pointer-large"
-            >
-              <span className="nav-btn" data-text="Fullscreen Bg">
-                Fullscreen Bg
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a
-              href="home_particles.html"
-              className="animsition-link pointer-large"
-            >
-              <span className="nav-btn" data-text="Particles">
-                Particles
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a
-              href="home_typewriter.html"
-              className="animsition-link pointer-large"
-            >
-              <span className="nav-btn" data-text="Typewriter">
-                Typewriter
-              </span>
-            </a>
-          </li>
-        </ul>
-        {/* dropdown end */}
+       
         <div
           className="nav-bg"
           style={{
@@ -137,7 +90,7 @@ const Header = () => {
       {/* nav-box end */}
       {/* nav-box start */}
       <li className="nav-box nav-bg-change">
-        <a href="about.html" className="animsition-link pointer-large nav-link">
+        <a href="#about" className="animsition-link pointer-large nav-link">
           <span className="nav-btn" data-text="About">
             About
           </span>
@@ -157,8 +110,8 @@ const Header = () => {
           href="services.html"
           className="animsition-link pointer-large nav-link"
         >
-          <span className="nav-btn" data-text="Services">
-            Services
+          <span className="nav-btn" data-text="Portfolio">
+            Portfolio
           </span>
         </a>
         <div
@@ -171,70 +124,13 @@ const Header = () => {
       </li>
       {/* nav-box end */}
       {/* nav-box start */}
-      <li className="nav-box nav-bg-change dropdown-open">
+      <li className="nav-box nav-bg-change">
         <a className="pointer-large nav-link">
-          <span className="nav-btn" data-text="Portfolio">
-            Portfolio
+          <span className="nav-btn" data-text="Partners">
+            Partners
           </span>
         </a>
-        {/* dropdown start */}
-        <ul className="dropdown">
-          <li className="nav-box">
-            <a href="portfolio.html" className="animsition-link pointer-large">
-              <span className="nav-btn" data-text="Standard">
-                Standard
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a
-              href="portfolio_full_screen.html"
-              className="animsition-link pointer-large"
-            >
-              <span className="nav-btn" data-text="FullScreen">
-                FullScreen
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a
-              href="portfolio_slider.html"
-              className="animsition-link pointer-large"
-            >
-              <span className="nav-btn" data-text="Slider 1">
-                Slider 1
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a
-              href="portfolio_columns_slider.html"
-              className="animsition-link pointer-large"
-            >
-              <span className="nav-btn" data-text="Slider 2">
-                Slider 2
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a
-              href="portfolio_filter.html"
-              className="animsition-link pointer-large"
-            >
-              <span className="nav-btn" data-text="Filter">
-                Filter
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a href="project.html" className="animsition-link pointer-large">
-              <span className="nav-btn" data-text="Single project">
-                Single project
-              </span>
-            </a>
-          </li>
-        </ul>
-        {/* dropdown end */}
+       
         <div
           className="nav-bg"
           style={{
@@ -245,33 +141,13 @@ const Header = () => {
       </li>
       {/* nav-box end */}
       {/* nav-box start */}
-      <li className="nav-box nav-bg-change dropdown-open">
+      <li className="nav-box nav-bg-change ">
         <a className="pointer-large nav-link">
-          <span className="nav-btn" data-text="Blog">
-            Blog
+          <span className="nav-btn" data-text="Testimonials">
+            Testimonials
           </span>
         </a>
-        {/* dropdown start */}
-        <ul className="dropdown">
-          <li className="nav-box">
-            <a href="blog.html" className="animsition-link pointer-large">
-              <span className="nav-btn" data-text="Blog">
-                Blog
-              </span>
-            </a>
-          </li>
-          <li className="nav-box">
-            <a
-              href="single_post.html"
-              className="animsition-link pointer-large"
-            >
-              <span className="nav-btn" data-text="Single post">
-                Single post
-              </span>
-            </a>
-          </li>
-        </ul>
-        {/* dropdown end */}
+        
         <div
           className="nav-bg"
           style={{
@@ -285,6 +161,25 @@ const Header = () => {
       <li className="nav-box nav-bg-change">
         <a
           href="contact.html"
+          className="animsition-link pointer-large nav-link"
+        >
+          <span className="nav-btn" data-text="Staff">
+            Staff
+          </span>
+        </a>
+        <div
+          className="nav-bg"
+          style={{
+            backgroundImage:
+              "url(assets/images/backgrounds/double-exposure-2390185_1920.jpg)"
+          }}
+        />
+      </li>
+      {/* nav-box end */}
+        {/* nav-box start */}
+        <li className="nav-box nav-bg-change">
+        <a
+          href="#contact"
           className="animsition-link pointer-large nav-link"
         >
           <span className="nav-btn" data-text="Contact">
@@ -452,7 +347,7 @@ const Header = () => {
           {/* home-slider-content start */}
           <div className="home-slider-content flex-min-height-inner red-bg">
             {/* flex-container start */}
-            <div className="container top-bottom-padding-120 flex-container response-999">
+            <div className="container top-bottom-padding-120  response-999">
               {/* column start */}
               <div className="six-columns">
                 <h2 className="large-title-bold">
