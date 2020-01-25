@@ -4,6 +4,7 @@ import React, { Component } from 'react';
 const Staff = () => {
     return(
         <section
+            id="staff"
             className="latest-news top-padding-120 bottom-padding-30 light-bg-1"
             data-midnight="black"
           >
@@ -36,10 +37,7 @@ const Staff = () => {
                     className="content-right-margin-20 light-bg-2"
                     data-animation-container
                   >
-                    <a
-                      href="single_post.html"
-                      className="pointer-large animsition-link hover-box d-block"
-                    >
+              
                       <div
                         className="overlay-anim-box2 overlay-dark-bg-2"
                         data-animation="overlay-anim2"
@@ -50,32 +48,17 @@ const Staff = () => {
                           alt="blog img"
                         />
                       </div>
-                      <h3 className="title-style text-color-1 top-margin-30 blog-title content-padding-l-r-20">
+                      <h3 className="title-style text-align text-color-1 top-margin-30 blog-title content-padding-l-r-20">
                         <span
                           data-animation-child
                           className="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01"
                           data-animation="overlay-anim2"
                         >
-                          subway tile
+                          Simon Choren
                         </span>
-                        <br />
-                        <span
-                          data-animation-child
-                          className="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02"
-                          data-animation="overlay-anim2"
-                        >
-                          brooklyn bun
-                        </span>
-                        <br />
-                        <span
-                          data-animation-child
-                          className="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay03"
-                          data-animation="overlay-anim2"
-                        >
-                          pickled bespoke
-                        </span>
+                        
                       </h3>
-                    </a>
+                    
                     <div className="content-padding-bottom-20 content-padding-l-r-20">
                       <ul
                         data-animation-child
@@ -83,17 +66,12 @@ const Staff = () => {
                         data-animation="fade-anim"
                       >
                         <li>
-                          <i className="fas fa-thumbtack text-color-3" />
+                          <i className="fab fa-instagram text-color-3" />
                         </li>
                         <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">branding</a>
+                          <a href="https://www.instagram.com/dadecapo/">@DadeCapo</a>
                         </li>
-                        <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">design</a>
-                        </li>
-                        <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">art</a>
-                        </li>
+                    
                       </ul>
                       <ul
                         data-animation-child
@@ -101,14 +79,12 @@ const Staff = () => {
                         data-animation="fade-anim"
                       >
                         <li>
-                          <i className="fas fa-tags text-color-3" />
+                          <i className="fab fa-linkedin text-color-3" />
                         </li>
                         <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">template</a>
+                          <a href="https://www.linkedin.com/in/simonchoren/">Simon Choren</a>
                         </li>
-                        <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">post formats</a>
-                        </li>
+                      
                       </ul>
                       <div
                         data-animation-child
@@ -152,30 +128,15 @@ const Staff = () => {
                           alt="blog img"
                         />
                       </div>
-                      <h3 className="title-style text-color-1 top-margin-30 blog-title content-padding-l-r-20">
+                      <h3 className="title-style text-align text-color-1 top-margin-30 blog-title content-padding-l-r-20">
                         <span
                           data-animation-child
                           className="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01"
                           data-animation="overlay-anim2"
                         >
-                          Cornhole slow
+                          Michael Castellon
                         </span>
-                        <br />
-                        <span
-                          data-animation-child
-                          className="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02"
-                          data-animation="overlay-anim2"
-                        >
-                          franzen woke
-                        </span>
-                        <br />
-                        <span
-                          data-animation-child
-                          className="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay03"
-                          data-animation="overlay-anim2"
-                        >
-                          master cleanse
-                        </span>
+                       
                       </h3>
                     </a>
                     <div className="content-padding-bottom-20 content-padding-l-r-20">
@@ -185,17 +146,12 @@ const Staff = () => {
                         data-animation="fade-anim"
                       >
                         <li>
-                          <i className="fas fa-thumbtack text-color-3" />
+                          <i className="fab fa-instagram text-color-3" />
                         </li>
                         <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">branding</a>
+                          <a href="https://www.instagram.com/_dont_hate_appreciate/">@_dont_hate_appreciate</a>
                         </li>
-                        <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">design</a>
-                        </li>
-                        <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">art</a>
-                        </li>
+                     
                       </ul>
                       <ul
                         data-animation-child
@@ -203,14 +159,12 @@ const Staff = () => {
                         data-animation="fade-anim"
                       >
                         <li>
-                          <i className="fas fa-tags text-color-3" />
+                          <i className="fab fa-linkedin text-color-3" />
                         </li>
                         <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">template</a>
+                          <a href="https://www.linkedin.com/in/michael-castellon/">Mike Castellon</a>
                         </li>
-                        <li className="p-letter-style pointer-small hover-color">
-                          <a href="#">post formats</a>
-                        </li>
+                       
                       </ul>
                       <div
                         data-animation-child

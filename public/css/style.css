@@ -3324,6 +3324,9 @@ body,
 	line-height: 1;
 	font-size: 30px;
 }
+.text-align {
+	text-align: center;
+}
 
 .small-title {
 	text-transform: uppercase;

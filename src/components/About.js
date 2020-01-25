@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 const About = () => {
     return(
 
-        <section id="down" className="dark-bg-1 flex-min-height-box">
+        <section id="about" className="dark-bg-1 flex-min-height-box">
         {/* flex-min-height-inner start */}
         <div className="flex-min-height-inner">
           {/* container start */}
@@ -27,7 +27,7 @@ const About = () => {
               </div>
               {/* column end */}
               {/* column start */}
-              <div className="six-columns">
+              <div className="six-columns" >
                 <div className="content-right-margin-20">
                   <p
                     data-animation-child

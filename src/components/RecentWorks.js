@@ -4,6 +4,7 @@ const RecentWorks = () => {
     return(
       
           <section
+            id="portfolio"
             className="light-bg-1 bottom-padding-30 top-padding-120"
             data-midnight="black"
           >

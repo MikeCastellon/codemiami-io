@@ -23,7 +23,7 @@ const Footer = () => {
         <ul className="footer-menu text-color-4">
           <li>
             <a
-              className="pointer-large animsition-link small-title-oswald hover-color active"
+              className="pointer-large small-title-oswald hover-color active"
               href="index.html"
             >
               Home
@@ -31,40 +31,48 @@ const Footer = () => {
           </li>
           <li>
             <a
-              className="pointer-large animsition-link small-title-oswald hover-color"
-              href="about.html"
+              className="pointer-large small-title-oswald hover-color"
+              href="#about"
             >
               About
             </a>
           </li>
           <li>
             <a
-              className="pointer-large animsition-link small-title-oswald hover-color"
-              href="services.html"
-            >
-              Services
-            </a>
-          </li>
-          <li>
-            <a
-              className="pointer-large animsition-link small-title-oswald hover-color"
-              href="portfolio.html"
+              className="pointer-large  small-title-oswald hover-color"
+              href="#portfolio"
             >
               Portfolio
             </a>
           </li>
           <li>
             <a
-              className="pointer-large animsition-link small-title-oswald hover-color"
-              href="blog.html"
+              className="pointer-large small-title-oswald hover-color"
+              href="#partners"
             >
-              Blog
+              Partners
             </a>
           </li>
           <li>
             <a
-              className="pointer-large animsition-link small-title-oswald hover-color"
-              href="contact.html"
+              className="pointer-large small-title-oswald hover-color"
+              href="#testimonials"
+            >
+              Testimonials
+            </a>
+          </li>
+          <li>
+            <a
+              className="pointer-large small-title-oswald hover-color"
+              href="#staff"
+            >
+              Staff
+            </a>
+          </li>
+          <li>
+            <a
+              className="pointer-large small-title-oswald hover-color"
+              href="#contact"
             >
               Contact
             </a>
@@ -80,7 +88,7 @@ const Footer = () => {
           <li>
             <i className="far fa-envelope" />
             <a href="#" className="xsmall-title-oswald">
-              email@xen_agency.com
+              codemiami.io@gmail.com
             </a>
           </li>
           <li>
@@ -90,80 +98,21 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <i className="fas fa-map-marker-alt" />
-            <a href="#" className="xsmall-title-oswald text-height-17">
-              PO Box 223158 Oliver Street
-              <br />
-              <span>East Victoria 2006 UK</span>
+            <i className="fab fa-instagram" />
+            <a href="#" className="xsmall-title-oswald">
+              @CodeMiami.io
             </a>
           </li>
+       
         </ul>
       </div>
     </div>
     {/* column end */}
-    {/* column start */}
-    <div className="three-columns bottom-padding-60">
-      <div className="content-left-margin-10">
-        <ul className="footer-social">
-          <li>
-            <div className="flip-btn-box">
-              <a
-                href="#"
-                className="flip-btn pointer-small"
-                data-text="Instagram"
-              >
-                Instagram
-              </a>
-            </div>
-          </li>
-          <li>
-            <div className="flip-btn-box">
-              <a
-                href="#"
-                className="flip-btn pointer-small"
-                data-text="Facebook"
-              >
-                Facebook
-              </a>
-            </div>
-          </li>
-          <li>
-            <div className="flip-btn-box">
-              <a
-                href="#"
-                className="flip-btn pointer-small"
-                data-text="Spotify"
-              >
-                Spotify
-              </a>
-            </div>
-          </li>
-          <li>
-            <div className="flip-btn-box">
-              <a href="#" className="flip-btn pointer-small" data-text="Vimeo">
-                Vimeo
-              </a>
-            </div>
-          </li>
-          <li>
-            <div className="flip-btn-box">
-              <a
-                href="#"
-                className="flip-btn pointer-small"
-                data-text="Behance"
-              >
-                Behance
-              </a>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    {/* column end */}
+    
     {/* column start */}
     <div className="twelve-columns">
       <p className="p-letter-style text-color-4 footer-copyright">
-        © Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a>
+        © Copyright 2020 CodeMiami.io 
       </p>
     </div>
     {/* column end */}
