@@ -1,20 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
  
 
 const Contact = () => {
-    const [name, setName] = useState("");
-    const [lastname, setLastName] = useState("");
-    const [emailaddy, setEmailAddy] = useState("");
-    const [message, setMessage] = useState("");
-    const [mailSent, setMailSent] = useState(false);
-    const [error, setError] = useState(null);
-
-    const handleSubmit = (evt) => {
-        evt.preventDefault();
-        alert(`Thank you for contacting us ${name}. You will definitely hear from us soon!`)
-    }
-
-
     return (
         <div>
             <section id="contact" className="dark-bg-1 flex-min-height-box">
@@ -161,16 +148,15 @@ const Contact = () => {
                     Lets Get In Touch!
                     </h4>
                     {/* flex-container start */}
-                    <form onSubmit={handleSubmit} className="flex-container top-padding-90">
+                    <form name="contact" method="POST" data-netlify="true" className="flex-container top-padding-90">
                     {/* column start */}
                     <div className="four-columns">
                         <div className="content-right-margin-10">
                         <input
-                            value={name}
+                            name="name"
                             type="text"
                             placeholder="Enter your name"
                             className="contact-form-control pointer-small"
-                            onChange={e => setName(e.target.value)}
                             required
                         />
                         </div>
@@ -180,12 +166,10 @@ const Contact = () => {
                     <div className="four-columns">
                         <div className="content-left-right-margin-5">
                         <input
-                            value={lastname}
+                            name="lastname"
                             type="text"
                             placeholder="Enter your last name"
                             className="contact-form-control pointer-small"
-                            onChange={e => setLastName(e.target.value)}
-                            required
                         />
                         </div>
                     </div>
@@ -194,11 +178,10 @@ const Contact = () => {
                     <div className="four-columns">
                         <div className="content-left-margin-10">
                         <input
-                            value={emailaddy}
+                            name="email"
                             type="email"
                             placeholder="Enter your email address"
                             className="contact-form-control pointer-small"
-                            onChange={e => setEmailAddy(e.target.value)}
                             required
                         />
                         </div>
@@ -207,11 +190,10 @@ const Contact = () => {
                     {/* column start */}
                     <div className="twelve-columns">
                         <textarea
-                        value={message}
+                        name="message"
                         placeholder="Enter your message"
                         className="contact-form-control pointer-small"
                         defaultValue={""}
-                        onChange={e => setMessage(e.target.value)}
                         required
                         />
                     </div>
