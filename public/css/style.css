@@ -1011,6 +1011,18 @@ body.anim .slider-arrow-prev-box, body.anim .slider-arrow-next-box {
 		flex-flow: wrap;
 		justify-content: center;
 }
+.flex-container-contact {
+	display: -webkit-box;
+		display: -ms-flexbox;
+			display: flex;
+	-ms-flex-flow: wrap;
+		flex-flow: wrap;
+		justify-content: space-evenly;
+}
+.contact-flex {
+	display: flex;
+	flex-direction: column;
+}
 
 .flex-container.reverse {
 	-webkit-box-orient: vertical;
@@ -6319,6 +6331,7 @@ button.mfp-close {
 	        transform: translateX(-50%) rotate(45deg);
 }
 
+
 /* 15.3. About slider */
 .about-slider {
 	width: 100%;
@@ -8571,6 +8584,7 @@ body.out .swiper-slide-active .portfolio-slider-fade {
 	background-position: center center;
 	background-repeat: no-repeat;
 	position: relative;
+	width: 50%;
 }
 
 .bg-overlay {

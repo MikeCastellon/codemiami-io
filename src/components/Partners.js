@@ -149,11 +149,72 @@ const Partners = () => {
                     </div>
                   </a>
                 </li>
+                <li>
+                  <a href="#" className="pointer-large d-block">
+                    <div className="brand-box">
+                      <img
+                        src="assets/images/clients/492492b2-b7d9-4648-a164-f530ecd6321a.png"
+                        alt="Brand"
+                        className="hover-opac-img"
+                      />
+                      <img
+                        src="assets/images/clients/9a6c570f-d03a-4806-9a30-dddc648707d9.png"
+                        alt="Brand"
+                        className="opac-img"
+                      />
+                    </div>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" className="pointer-large d-block">
+                    <div className="brand-box">
+                      <img
+                        src="assets/images/clients/492492b2-b7d9-4648-a164-f530ecd6321a.png"
+                        alt="Brand"
+                        className="hover-opac-img"
+                      />
+                      <img
+                        src="assets/images/clients/9a6c570f-d03a-4806-9a30-dddc648707d9.png"
+                        alt="Brand"
+                        className="opac-img"
+                      />
+                    </div>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" className="pointer-large d-block">
+                    <div className="brand-box">
+                      <img
+                        src="assets/images/clients/492492b2-b7d9-4648-a164-f530ecd6321a.png"
+                        alt="Brand"
+                        className="hover-opac-img"
+                      />
+                      <img
+                        src="assets/images/clients/9a6c570f-d03a-4806-9a30-dddc648707d9.png"
+                        alt="Brand"
+                        className="opac-img"
+                      />
+                    </div>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" className="pointer-large d-block">
+                    <div className="brand-box">
+                      <img
+                        src="assets/images/clients/492492b2-b7d9-4648-a164-f530ecd6321a.png"
+                        alt="Brand"
+                        className="hover-opac-img"
+                      />
+                      <img
+                        src="assets/images/clients/9a6c570f-d03a-4806-9a30-dddc648707d9.png"
+                        alt="Brand"
+                        className="opac-img"
+                      />
+                    </div>
+                  </a>
+                </li>
          
-        
-           
-              
-                <li className="empty-spot-box">
+         <li className="empty-spot-box">
                   <a
                     data-animation-container
                     href="#"
