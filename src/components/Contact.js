@@ -127,7 +127,8 @@ const Contact = () => {
                     </div>
                     </div>
                     {/* column end */}
-                    <form name="contact" method="POST" data-netlify="true"className="contact-form-box">
+                    <form name="contact" method="POST" className="contact-form-box">
+                    <input type="hidden" name="form-name" value="contact" />
                     {/* column start */}
                     <div className="four-columns">
                         <div className="">
