@@ -29,7 +29,9 @@ const Contact = () => {
                     </p>
                     </div>
                     {/* flex-container start */}
-                    <div className="flex-container top-padding-90 contact-box">
+                    
+                    <div className="flex-container-contact top-padding-90 contact-box">
+                        <div className="contact-flex">
                     {/* column start */}
                     <div className="four-columns bottom-padding-60">
                         <div data-animation-container className="content-right-margin-20">
@@ -79,8 +81,9 @@ const Contact = () => {
                     {/* column end */}
                
                     {/* column start */}
+                    
                     <div className="four-columns bottom-padding-60">
-                        <div data-animation-container className="content-left-margin-20">
+                        <div data-animation-container className="">
                         <p
                             data-animation-child
                             className="small-title-oswald red-color overlay-anim-box2"
@@ -122,36 +125,12 @@ const Contact = () => {
                         </h6>
                         </div>
                     </div>
-                    {/* column end */}
                     </div>
-                    {/* flex-container end */}
-                </div>
-                {/* container end */}
-                </div>
-                {/* flex-min-height-inner end */}
-            </section>
-            {/* flex-min-height-box end */}
-            {/* contact-form-box start */}
-            <section
-                className="contact-form-box flex-min-height-box"
-                style={{
-                backgroundImage:
-                    "url(assets/images/backgrounds/pexels-photo-1287145.jpeg)"
-                }}
-            >
-                <div className="bg-overlay" />
-                {/* flex-min-height-inner start */}
-                <div className="flex-min-height-inner">
-                {/* container start */}
-                <div className="container small top-bottom-padding-120">
-                    <h4 className="small-title-oswald text-color-4 text-center">
-                    Lets Get In Touch!
-                    </h4>
-                    {/* flex-container start */}
-                    <form name="contact" method="POST" data-netlify="true" className="flex-container top-padding-90">
+                    {/* column end */}
+                    <form name="contact" method="POST" data-netlify="true"className="contact-form-box">
                     {/* column start */}
                     <div className="four-columns">
-                        <div className="content-right-margin-10">
+                        <div className="">
                         <input
                             name="name"
                             type="text"
@@ -163,8 +142,8 @@ const Contact = () => {
                     </div>
                     {/* column end */}
                     {/* column start */}
-                    <div className="four-columns">
-                        <div className="content-left-right-margin-5">
+                    <div className="">
+                        <div className="">
                         <input
                             name="lastname"
                             type="text"
@@ -176,7 +155,7 @@ const Contact = () => {
                     {/* column end */}
                     {/* column start */}
                     <div className="four-columns">
-                        <div className="content-left-margin-10">
+                        <div className="">
                         <input
                             name="email"
                             type="email"
@@ -210,12 +189,16 @@ const Contact = () => {
                     </div>
                     {/* column end */}
                     </form>
+                    </div>
                     {/* flex-container end */}
                 </div>
                 {/* container end */}
                 </div>
                 {/* flex-min-height-inner end */}
             </section>
+            {/* flex-min-height-box end */}
+            {/* contact-form-box start */}
+          
             {/* contact-form-box end */}
             {/* animsition-overlay end */}
             </div>

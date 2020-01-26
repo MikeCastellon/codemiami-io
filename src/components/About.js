@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 const About = () => {
     return(
 
-        <section id="about" className="dark-bg-1 flex-min-height-box">
+        <section id="down" className="dark-bg-1 flex-min-height-box">
         {/* flex-min-height-inner start */}
-        <div className="flex-min-height-inner">
+        <div id="about" className="flex-min-height-inner">
           {/* container start */}
           <div className="container small top-bottom-padding-120">
             {/* flex-container start */}
