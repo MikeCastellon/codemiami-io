@@ -4,7 +4,7 @@ import React from 'react';
 const Contact = () => {
     return (
         <div>
-            <section id="contact" className="dark-bg-1 flex-min-height-box">
+            <section id="contact" className="dark-bg-2 flex-min-height-box">
                 {/* flex-min-height-inner start */}
                 <div className="flex-min-height-inner">
                 {/* container start */}

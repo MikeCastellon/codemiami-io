@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+
+
 const Header = () => {
     return(
         <div>
@@ -209,11 +211,8 @@ const Header = () => {
         <div className="swiper-slide flex-min-height-box home-slide">
           {/* slide-bg */}
           <div
-            className="slide-bg overlay-loading2 overlay-dark-bg-1"
-            style={{
-              backgroundImage:
-                "url(assets/images/backgrounds/pexels-photo-1806031.jpeg)"
-            }}
+            className="slide-bg overlay-loading2 overlay-dark-bg-1 header1"
+           
           />
           {/* home-slider-content start */}
           <div className="home-slider-content flex-min-height-inner dark-bg-1">
@@ -282,14 +281,11 @@ const Header = () => {
         </div>
         {/* swiper-slide end */}
         {/* swiper-slide start */}
-        <div className="swiper-slide flex-min-height-box home-slide">
+        <div className="swiper-slide flex-min-height-box home-slide ">
           {/* slide-bg */}
           <div
-            className="slide-bg"
-            style={{
-              backgroundImage:
-                "url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg)"
-            }}
+            className="slide-bg header2"
+         
           />
           {/* home-slider-content start */}
           <div className="home-slider-content flex-min-height-inner dark-bg-2">
@@ -376,9 +372,9 @@ const Header = () => {
                   </span>
                   <span
                     className="slider-title-fill slider-tr-delay05 top-margin-10"
-                    data-text="Innovation ideas"
+                    data-text="Innovative ideas"
                   >
-                    Innovation ideas
+                    Innovative ideas
                   </span>
                   <span
                     className="slider-title-fill slider-tr-delay06 top-margin-10"
