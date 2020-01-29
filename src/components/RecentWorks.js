@@ -91,16 +91,13 @@ const RecentWorks = () => {
                     {/* column start */}
                     <div className="six-columns top-padding-60">
                       <a
-                        href="project.html"
+                        href="https://swecinc.com/"
                         className="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link"
                       >
                         <div
-                          className="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2"
+                          className="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2 statewidepic"
                           data-animation="overlay-anim2"
-                          style={{
-                            backgroundImage:
-                              "url(assets/images/projects/pexels-photo-1619654.jpeg)"
-                          }}
+                         
                         />
                       </a>
                     </div>
@@ -124,16 +121,14 @@ const RecentWorks = () => {
                     {/* column start */}
                     <div className="six-columns top-padding-60">
                       <a
-                        href="project.html"
+                        href="https://beautifyapp.herokuapp.com/users/sign_in"
                         className="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link"
                       >
                         <div
-                          className="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2"
+                          className="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2 beautifypic"
                           data-animation="overlay-anim2"
-                          style={{
-                            backgroundImage:
-                              "url(assets/images/projects/audio-cassette-cassette-tape-1626481.jpg)"
-                          }}
+                          
+                        
                         />
                       </a>
                     </div>
@@ -202,7 +197,7 @@ const RecentWorks = () => {
                           className="small-title-oswald red-color overlay-anim-box2"
                           data-animation="overlay-anim2"
                         >
-                          Full STack Web App
+                          Full Stack Web App
                         </span>
                         <h3 className="title-style text-color-1">
                           <span
@@ -239,16 +234,13 @@ const RecentWorks = () => {
                     {/* column start */}
                     <div className="six-columns top-padding-60">
                       <a
-                        href="project.html"
+                        href="https://eps-front.herokuapp.com/dashboard/user/1"
                         className="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link"
                       >
                         <div
-                          className="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2"
+                          className="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2 epspic"
                           data-animation="overlay-anim2"
-                          style={{
-                            backgroundImage:
-                              "url(assets/images/projects/blur-close-up-equipment-1034651.jpg)"
-                          }}
+                        
                         />
                       </a>
                     </div>
@@ -272,16 +264,13 @@ const RecentWorks = () => {
                     {/* column start */}
                     <div className="six-columns top-padding-60">
                       <a
-                        href="project.html"
+                        href="https://brewfinder.netlify.com/"
                         className="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link"
                       >
                         <div
-                          className="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2"
+                          className="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2 brewfinderpic"
                           data-animation="overlay-anim2"
-                          style={{
-                            backgroundImage:
-                              "url(assets/images/projects/chocolate-delicious-dessert-890500.jpg)"
-                          }}
+                          
                         />
                       </a>
                     </div>

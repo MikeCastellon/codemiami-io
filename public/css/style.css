@@ -6546,6 +6546,21 @@ body.anim .home-slider .swiper-pagination-bullet:nth-child(4) {
 }
 
 /* 15.4.3. Portfolio full screen slider pagination */
+.beautifypic{
+	background-image: url(../images/beautify.jpg);
+}
+
+.epspic {
+	background-image: url(../images/eps.jpg);
+}
+
+.brewfinderpic {
+	background-image: url(../images/brewfinder.jpg);
+}
+
+.statewidepic {
+	background-image: url(../images/statewide.JPG);
+}
 .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-bullets-dynamic {
 	right: 40px;
 	width: 30px;
