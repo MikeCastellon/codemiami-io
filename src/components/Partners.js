@@ -41,7 +41,7 @@ const Partners = () => {
                   <a href="#" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
-                        src="assets/images/clients/3eabc7ab-8bae-44f0-8389-0169389e38c2.png"
+                        src="public/images/codemiamilogo/codemiamilogo.png"
                         alt="Brand"
                         className="hover-opac-img"
                       />
