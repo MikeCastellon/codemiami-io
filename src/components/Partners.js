@@ -1,4 +1,5 @@
 import React, { Components } from 'react';
+import statewidelogo from '../images/Logos/statewidelogo.png'
 
 const Partners = () => {
     return(
@@ -41,12 +42,12 @@ const Partners = () => {
                   <a href="#" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
-                        src="assets/images/clients/3eabc7ab-8bae-44f0-8389-0169389e38c2.png"
+                        src={statewidelogo}
                         alt="Brand"
                         className="hover-opac-img"
                       />
                       <img
-                        src="assets/images/clients/1c4bfb0e-0b9f-4c19-ba5c-113fb0714514.png"
+                        src={statewidelogo}
                         alt="Brand"
                         className="opac-img"
                       />
