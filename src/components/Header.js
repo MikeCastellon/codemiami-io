@@ -10,7 +10,7 @@ const Header = () => {
   <div className="loading">
     <img
       className="logo-loading"
-      src="assets/images/logo/logo-loader.png"
+      src={codemiamilogo}
       alt="logo"
     />
   </div>
@@ -41,7 +41,7 @@ const Header = () => {
           />
           <img
             className="logo-black"
-            src="assets/images/logo/logo-black.png"
+            src={codemiamilogo}
             alt="logo"
           />
         </div>
@@ -60,7 +60,7 @@ const Header = () => {
   <nav className="nav-container dark-bg-1">
     {/* nav-logo start */}
     <div className="nav-logo">
-      <img src="assets/images/logo/logo-white.png" alt="logo" />
+      <img src={codemiamilogo} alt="logo" />
     </div>
     {/* nav-logo end */}
     {/* menu-close */}

@@ -42,11 +42,9 @@ const Partners = () => {
                   <a href="#" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
-<<<<<<< HEAD
-                        src="public/images/codemiamilogo/codemiamilogo.png"
-=======
+
                         src={statewidelogo}
->>>>>>> fee8f7e09492b1290b2853f744f1136abe56f955
+
                         alt="Brand"
                         className="hover-opac-img"
                       />
