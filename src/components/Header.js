@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import codemiamilogo from '../images/Logos/codemiamilogo.png'
 
 
 
@@ -35,7 +36,7 @@ const Header = () => {
         <div className="logo-img-box">
           <img
             className="logo-white"
-            src="assets/images/logo/logo-white.png"
+            src={codemiamilogo}
             alt="logo"
           />
           <img
