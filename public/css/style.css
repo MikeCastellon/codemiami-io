@@ -1797,6 +1797,11 @@ body.in .loading {
 	background-image: url(../images/header2.jpg);
 	background-position: right !important;
 }
+.header3 {
+	background-image: url(../images/header3.jpeg);
+	background-position: right !important;
+}
+
 
 .header-flex-box {
 	width: 100%;

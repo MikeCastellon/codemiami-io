@@ -334,11 +334,8 @@ const Header = () => {
         <div className="swiper-slide flex-min-height-box home-slide red-slide">
           {/* slide-bg */}
           <div
-            className="slide-bg"
-            style={{
-              backgroundImage:
-                "url(assets/images/backgrounds/bart-simpson-casual-close-up-1813947copy1.jpg)"
-            }}
+            className="slide-bg header3"
+            
           />
           {/* home-slider-content start */}
           <div className="home-slider-content flex-min-height-inner red-bg">

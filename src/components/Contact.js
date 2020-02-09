@@ -118,9 +118,9 @@ const Contact = () => {
                             <a
                             href="#"
                             className="flip-btn pointer-large"
-                            data-text="+23 8 8532 7834"
+                            data-text="‪(305) 501-0964‬"
                             >
-                            +23 8 8532 7834
+                            ‪(305) 501-0964‬
                             </a>
                         </h6>
                         </div>

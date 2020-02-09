@@ -94,7 +94,7 @@ const Footer = () => {
           <li>
             <i className="fas fa-mobile-alt" />
             <a href="#" className="xsmall-title-oswald">
-              +23 8 8532 7834
+            ‪(305) 501-0964‬
             </a>
           </li>
           <li>
