@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import mikespic from '../images/mikespic.JPG';
+import simonspic from '../images/simonspic.JPG';
 
 
 const Staff = () => {
@@ -44,7 +46,7 @@ const Staff = () => {
                       >
                         <img
                           className="hover-img"
-                          src="assets/images/blog/bodypaint-female-girl-50595.jpg"
+                          src={simonspic}
                           alt="blog img"
                         />
                       </div>
@@ -86,24 +88,7 @@ const Staff = () => {
                         </li>
                       
                       </ul>
-                      <div
-                        data-animation-child
-                        className="blog-autor-date top-margin-30 fade-anim-box tr-delay06 text-color-1"
-                        data-animation="fade-anim"
-                      >
-                        <a
-                          className="xsmall-title-oswald pointer-small hover-color"
-                          href="#"
-                        >
-                          Balanchaev Balancha
-                        </a>
-                        <a
-                          className="xsmall-title-oswald pointer-small hover-color"
-                          href="#"
-                        >
-                          March 20, 2019
-                        </a>
-                      </div>
+                   
                     </div>
                   </article>
                 </div>
@@ -114,17 +99,14 @@ const Staff = () => {
                     className="content-left-right-margin-10 light-bg-2"
                     data-animation-container
                   >
-                    <a
-                      href="single_post.html"
-                      className="pointer-large animsition-link hover-box d-block"
-                    >
+                 
                       <div
                         className="overlay-anim-box2 overlay-dark-bg-2"
                         data-animation="overlay-anim2"
                       >
                         <img
                           className="hover-img"
-                          src="assets/images/blog/auto-automobile-automotive-358201.jpg"
+                          src={mikespic}
                           alt="blog img"
                         />
                       </div>
@@ -134,11 +116,11 @@ const Staff = () => {
                           className="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01"
                           data-animation="overlay-anim2"
                         >
-                          Michael Castellon
+                          Mike Castellon
                         </span>
                        
                       </h3>
-                    </a>
+                    
                     <div className="content-padding-bottom-20 content-padding-l-r-20">
                       <ul
                         data-animation-child
@@ -166,24 +148,7 @@ const Staff = () => {
                         </li>
                        
                       </ul>
-                      <div
-                        data-animation-child
-                        className="blog-autor-date top-margin-30 fade-anim-box tr-delay06 text-color-1"
-                        data-animation="fade-anim"
-                      >
-                        <a
-                          className="xsmall-title-oswald pointer-small hover-color"
-                          href="#"
-                        >
-                          Steve Kong
-                        </a>
-                        <a
-                          className="xsmall-title-oswald pointer-small hover-color"
-                          href="#"
-                        >
-                          March 13, 2019
-                        </a>
-                      </div>
+                    
                     </div>
                   </article>
                 </div>
