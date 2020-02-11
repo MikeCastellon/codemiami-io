@@ -258,7 +258,7 @@ const Header = () => {
                     <div className="border-btn-box border-btn-red pointer-large">
                       <div className="border-btn-inner">
                         <a
-                          href="#aboutus"
+                          href="#down"
                           className="border-btn"
                           data-text="Who are we?"
                         >
@@ -308,7 +308,7 @@ const Header = () => {
                     <div className="border-btn-box pointer-large">
                       <div className="border-btn-inner">
                         <a
-                          href="#"
+                          href="#portfolio"
                           className="border-btn"
                           data-text="Portfolio"
                         >
@@ -377,7 +377,7 @@ const Header = () => {
                   </span>
                 </div>
                 <div className="arrow-btn-box slider-fade slider-tr-delay06 top-margin-30">
-                  <a href="#" className="arrow-btn pointer-large">
+                  <a href="#contact" className="arrow-btn pointer-large">
                     Lets Talk
                   </a>
                 </div>

@@ -2,6 +2,7 @@ import React, { Components } from 'react';
 import statewidelogo from '../images/Logos/statewidelogo.png'
 import beautifylogo from '../images/Logos/beautifylogo.png'
 import beautifylogo2 from '../images/Logos/beautifylogo2.png'
+import statewidelogored from '../images/Logos/statewidelogored.png'
 
 const Partners = () => {
     return(
@@ -41,7 +42,7 @@ const Partners = () => {
               {/* client-list start */}
               <ul className="client-list d-flex-wrap top-padding-60">
                 <li>
-                  <a href="#" className="pointer-large d-block">
+                  <a href="https://swecinc.com/" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
 
@@ -51,7 +52,7 @@ const Partners = () => {
                         className="hover-opac-img"
                       />
                       <img
-                        src={statewidelogo}
+                        src={statewidelogored}
                         alt="Brand"
                         className="opac-img"
                       />
@@ -59,7 +60,7 @@ const Partners = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="pointer-large d-block">
+                  <a href="https://beautifyapp.herokuapp.com/users/sign_in" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
                         src={beautifylogo}
