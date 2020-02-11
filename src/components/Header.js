@@ -32,20 +32,15 @@ const Header = () => {
     {/* header-flex-box start */}
     <div className="header-flex-box">
       {/* logo start */}
-      <a href="index.html" className="logo pointer-large animsition-link">
-        <div className="logo-img-box">
+        <div className="logo-img-box logo" >
           <img
             className="logo-white"
             src={codemiamilogo}
             alt="logo"
           />
-          <img
-            className="logo-black"
-            src={codemiamilogo}
-            alt="logo"
-          />
+       
         </div>
-      </a>
+      
       {/* logo end */}
       {/* menu-open start */}
       <div className="menu-open pointer-large">

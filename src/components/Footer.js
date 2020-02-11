@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import codemiamilogo from '../images/Logos/codemiamilogo.png'
 
 const Footer = () => {
     return(
@@ -11,7 +12,7 @@ const Footer = () => {
       <div className="content-right-margin-10 footer-center-mobile">
         <img
           className="footer-logo"
-          src="assets/images/logo/logo-white.png"
+          src={codemiamilogo}
           alt="logo"
         />
       </div>
@@ -87,7 +88,7 @@ const Footer = () => {
         <ul className="footer-information text-color-4">
           <li>
             <i className="far fa-envelope" />
-            <a href="#" className="xsmall-title-oswald">
+            <a href="mailto:codemiami.io@gmail.com" className="xsmall-title-oswald">
               codemiami.io@gmail.com
             </a>
           </li>
