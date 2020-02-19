@@ -8,6 +8,9 @@ import bablogored from '../images/Logos/bablogored.png'
 import wingslogo from '../images/Logos/wingslogo.png'
 import wingslogored from '../images/Logos/wingslogored.png'
 
+
+
+
 const Partners = () => {
     return(
         <section id="partners"className="dark-bg-2">
@@ -46,7 +49,7 @@ const Partners = () => {
               {/* client-list start */}
               <ul className="client-list d-flex-wrap top-padding-60">
                 <li>
-                  <a href="#" className="pointer-large d-block">
+                  <a href="https://swecinc.com/" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
 
@@ -64,7 +67,7 @@ const Partners = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="pointer-large d-block">
+                  <a href="https://beautifyapp.herokuapp.com/users/sign_in" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
                         src={beautifylogo}
