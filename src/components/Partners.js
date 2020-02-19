@@ -1,8 +1,15 @@
 import React, { Components } from 'react';
+import statewidelogored from '../images/Logos/statewidelogored.png'
 import statewidelogo from '../images/Logos/statewidelogo.png'
 import beautifylogo from '../images/Logos/beautifylogo.png'
 import beautifylogo2 from '../images/Logos/beautifylogo2.png'
-import statewidelogored from '../images/Logos/statewidelogored.png'
+import bablogo from '../images/Logos/bablogo.png'
+import bablogored from '../images/Logos/bablogored.png'
+import wingslogo from '../images/Logos/wingslogo.png'
+import wingslogored from '../images/Logos/wingslogored.png'
+
+
+
 
 const Partners = () => {
     return(
@@ -79,12 +86,12 @@ const Partners = () => {
                   <a href="#" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
-                        src="assets/images/clients/7d1fe64f-fbd7-4e5f-896d-6d79c91f29bf.png"
+                        src={bablogo}
                         alt="Brand"
                         className="hover-opac-img"
                       />
                       <img
-                        src="assets/images/clients/858e2e28-faae-441c-bd9c-5c490c72b562.png"
+                        src={bablogored}
                         alt="Brand"
                         className="opac-img"
                       />
@@ -95,12 +102,12 @@ const Partners = () => {
                   <a href="#" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
-                        src="assets/images/clients/8b587214-bdcb-4d74-bb61-2480d1d15aa7.png"
+                        src={wingslogo}
                         alt="Brand"
                         className="hover-opac-img"
                       />
                       <img
-                        src="assets/images/clients/4b983c9a-759d-4921-ba60-dbbcaa702ee5.png"
+                        src={wingslogored}
                         alt="Brand"
                         className="opac-img"
                       />
