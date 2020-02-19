@@ -1,4 +1,4 @@
-import React, { Compoenents } from 'react';
+import React  from 'react';
 
 const Testimonials = () => {
     return(

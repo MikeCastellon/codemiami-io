@@ -1795,7 +1795,7 @@ body.in .loading {
 
 .header2 {
 	background-image: url(../images/header2.jpg);
-	background-position: right !important;
+	background-position: 40% !important;
 }
 .header3 {
 	background-image: url(../images/header3.jpeg);
