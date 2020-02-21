@@ -1,4 +1,7 @@
 import React  from 'react';
+import fred from '../images/fredkinney.jpg';
+import steve from '../images/stevespella.jpg';
+import josh from '../images/joshfernandez.jpg';
 
 const Testimonials = () => {
     return(
@@ -10,8 +13,7 @@ const Testimonials = () => {
       {/* slide start */}
       <div className="swiper-slide text-center">
         <img
-          src="assets/images/testimonials/adult-beanie-black-background-1529350.jpg"
-          alt="author"
+          src={josh}
         />
         <div className="testimonials-content">
           <p className="text-color-4 p-style-bold">
@@ -26,7 +28,7 @@ const Testimonials = () => {
       {/* slide start */}
       <div className="swiper-slide text-center">
         <img
-          src="assets/images/testimonials/pexels-photo-428340.jpeg"
+          src={fred}
           alt="author"
         />
         <div className="testimonials-content">
@@ -42,7 +44,7 @@ const Testimonials = () => {
       {/* slide start */}
       <div className="swiper-slide text-center">
         <img
-          src="assets/images/testimonials/pexels-photo-764529.jpeg"
+          src={steve}
           alt="author"
         />
         <div className="testimonials-content">
