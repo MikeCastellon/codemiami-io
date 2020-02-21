@@ -68,11 +68,11 @@ const Contact = () => {
                             data-animation="fade-anim"
                         >
                             <a
-                            href="#"
+                            href="mailto:CodeMiami.io@gmail.com"
                             className="flip-btn pointer-large"
-                            data-text="info@codemiami.io"
+                            data-text="CodeMiami.io@gmail.com"
                             >
-                            <a href="mailto:info@codemiami.io" target="_top">info@codemiami.io</a>
+                            <a href="mailto:CodeMiami.io@gmail.com" >CodeMiami.io@gmail.com</a>
                             </a>
                         </h6>
                         

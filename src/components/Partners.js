@@ -1,4 +1,4 @@
-import React, { Components } from 'react';
+import React from 'react';
 import statewidelogored from '../images/Logos/statewidelogored.png'
 import statewidelogo from '../images/Logos/statewidelogo.png'
 import beautifylogo from '../images/Logos/beautifylogo.png'
