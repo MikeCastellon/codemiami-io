@@ -391,20 +391,7 @@ const Header = () => {
         {/* swiper-slide end */}
       </div>
       {/* swiper-wrapper end */}
-      {/* swiper-button-next start */}
-      <div className="swiper-button-next">
-        <div className="slider-arrow-next-box">
-          <span className="slider-arrow-next" />
-        </div>
-      </div>
-      {/* swiper-button-next end */}
-      {/* swiper-button-prev start */}
-      <div className="swiper-button-prev">
-        <div className="slider-arrow-prev-box">
-          <span className="slider-arrow-prev" />
-        </div>
-      </div>
-      {/* swiper-button-prev end */}
+      
       {/* swiper-pagination */}
       <div className="swiper-pagination" />
       {/* scroll-btn start */}
