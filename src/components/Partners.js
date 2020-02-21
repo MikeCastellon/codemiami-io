@@ -83,7 +83,7 @@ const Partners = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="pointer-large d-block">
+                  <a href="http://www.babmiami.org/" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
                         src={bablogo}
@@ -99,7 +99,7 @@ const Partners = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="pointer-large d-block">
+                  <a href="https://eps-front.herokuapp.com/dashboard/user/1" className="pointer-large d-block">
                     <div className="brand-box">
                       <img
                         src={wingslogo}

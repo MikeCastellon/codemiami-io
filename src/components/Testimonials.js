@@ -15,17 +15,11 @@ const Testimonials = () => {
         />
         <div className="testimonials-content">
           <p className="text-color-4 p-style-bold">
-            Copper mug vexillologist +1 prism iPhone fashion axe portland. Hella
-            quinoa woke blog af umami tacos freegan vinyl snackwave microdosing.
-            Fanny pack direct trade XOXO drinking vinegar. Live-edge kinfolk
-            master cleanse brooklyn meh organic man braid. Actually humblebrag
-            sriracha authentic chia. IPhone glossier schlitz fam, la croix
-            keytar retro offal. Artisan selfies mlkshk pinterest gastropub
-            knausgaard live-edge.
+          My experience with Mike and Simon was awesome to say the least. I have been working with my family business and they are old school. We hadn’t updated the company website in over 10 years and once we got worked with code miami, we instantly saw positive feedback. They were easy to work with and I never thought it would be that easy to get a whole custom made site for us. I highly recommend them to anyone trying to get their business to the next level.
           </p>
         </div>
         <div className="text-color-1 small-title-oswald">
-          Balanchaev Balancha, <span className="text-color-2">Investor</span>
+          Joshua Fernandez, <span className="text-color-2">SWEC INC</span>
         </div>
       </div>
       {/* slide end */}
@@ -37,17 +31,11 @@ const Testimonials = () => {
         />
         <div className="testimonials-content">
           <p className="text-color-4 p-style-bold">
-            Bushwick tumeric slow-carb photo booth letterpress franzen kombucha
-            tumblr listicle cronut waistcoat mustache. Jean shorts tilde swag
-            cray. Microdosing heirloom wayfarers YOLO, church-key tattooed cred
-            blue bottle viral lyft tacos retro. Bespoke drinking vinegar
-            single-origin coffee pop-up, whatever air plant austin hexagon
-            selfies tattooed. Fixie taxidermy forage hot chicken, locavore
-            church-key authentic coloring book.
+          I really needed something that I could launch online that would service people right away. I didn’t have a clear idea what I wanted but I def wanted a search engine to find local bars. The guys over at Code Miami really put in the work and helped me with the name, colors and thinking through what I wanted the website to do. I appreciate all their hard work and I couldn’t be happier with the results.
           </p>
         </div>
         <div className="text-color-1 small-title-oswald">
-          Fred Kinney, <span className="text-color-2">Designer</span>
+          Fred Kinney, <span className="text-color-2">BREWFINDER</span>
         </div>
       </div>
       {/* slide end */}
@@ -59,60 +47,11 @@ const Testimonials = () => {
         />
         <div className="testimonials-content">
           <p className="text-color-4 p-style-bold">
-            Pitchfork vaporware hella, vice next level art party subway tile
-            swag portland. Cliche authentic photo booth, seitan sartorial iPhone
-            brooklyn bicycle rights whatever small batch selvage affogato yuccie
-            adaptogen vinyl. Sartorial franzen tacos cardigan, offal gluten-free
-            pour-over snackwave plaid four dollar toast. Messenger bag keffiyeh
-            church-key, synth iPhone pabst leggings ethical. PBR&amp;B cred hot
-            chicken pork belly.
+          I couldn’t believe the business idea and development that these guys did. It was so awesome to see these two kids from Miami create a business that would help mold the art scene here in wynwood. Beautify is a unique way for artist and building owners to really bring out the creativity and talent that so many have and I just love the idea and I can wait to see what else they come up with. Look out for these guys!
           </p>
         </div>
         <div className="text-color-1 small-title-oswald">
-          Steve Kong, <span className="text-color-2">Web developer</span>
-        </div>
-      </div>
-      {/* slide end */}
-      {/* slide start */}
-      <div className="swiper-slide text-center">
-        <img
-          src="assets/images/testimonials/pexels-photo-809433.jpeg"
-          alt="author"
-        />
-        <div className="testimonials-content">
-          <p className="text-color-4 p-style-bold">
-            Chambray enamel pin synth shabby chic palo santo. Franzen 90's man
-            bun wayfarers, put a bird on it twee four loko roof party shabby
-            chic kale chips photo booth salvia mixtape lumbersexual. Pug
-            kickstarter hammock unicorn, cardigan ennui celiac roof party. Ramps
-            pitchfork direct trade, food truck tacos biodiesel craft beer. Af
-            hammock listicle vape banjo echo park meditation organic cred subway
-            tile. Echo park DIY.
-          </p>
-        </div>
-        <div className="text-color-1 small-title-oswald">
-          Balanchaev Balancha, <span className="text-color-2">Investor</span>
-        </div>
-      </div>
-      {/* slide end */}
-      {/* slide start */}
-      <div className="swiper-slide text-center">
-        <img
-          src="assets/images/testimonials/pexels-photo-894156.jpeg"
-          alt="author"
-        />
-        <div className="testimonials-content">
-          <p className="text-color-4 p-style-bold">
-            Pok pok authentic fashion axe, vegan venmo leggings raclette tousled
-            twee tattooed. Banh mi humblebrag hammock tacos fashion axe
-            aesthetic vegan sustainable taiyaki thundercats jean shorts tousled
-            cloud bread waistcoat kogi. Cloud bread cardigan messenger bag raw
-            denim swag drinking vinegar. Yuccie jianbing bespoke retro, photo
-            booth salvia hella meh post-ironic cornhole tacos plaid.
-          </p>
-        </div>
-        <div className="text-color-1 small-title-oswald">
-          Fred Kinney, <span className="text-color-2">Designer</span>
+          Steve Spella, <span className="text-color-2">BEAUTIFY</span>
         </div>
       </div>
       {/* slide end */}
