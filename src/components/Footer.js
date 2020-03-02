@@ -95,7 +95,13 @@ const Footer = () => {
           <li>
             <i className="fas fa-mobile-alt" />
             <a href="#" className="xsmall-title-oswald">
-            ‪(305) 501-0964‬
+            ‪(786)-277-4465
+            </a>
+          </li>
+          <li>
+            <i className="fas fa-mobile-alt" />
+            <a href="#" className="xsmall-title-oswald">
+            ‪(786)-328-0827
             </a>
           </li>
           <li>

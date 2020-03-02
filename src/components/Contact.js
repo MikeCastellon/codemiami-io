@@ -118,9 +118,22 @@ const Contact = () => {
                             <a
                             href="#"
                             className="flip-btn pointer-large"
-                            data-text="‪(305) 501-0964‬"
+                            data-text="‪‪(786)-277-4465‬"
                             >
-                            ‪(305) 501-0964‬
+                            ‪‪(786)-277-4465
+                            </a>
+                        </h6>
+                        <h6
+                            data-animation-child
+                            className="flip-btn-box fade-anim-box tr-delay04"
+                            data-animation="fade-anim"
+                        >
+                            <a
+                            href="#"
+                            className="flip-btn pointer-large"
+                            data-text="‪(786)-328-0827‬"
+                            >
+                            ‪(786)-328-0827
                             </a>
                         </h6>
                         </div>

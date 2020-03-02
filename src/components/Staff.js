@@ -86,8 +86,11 @@ const Staff = () => {
                         <li className="p-letter-style pointer-small hover-color">
                           <a href="https://www.linkedin.com/in/simonchoren/">Simon Choren</a>
                         </li>
+
+                        
                       
                       </ul>
+                      
                    
                     </div>
                   </article>
